@@ -1,6 +1,6 @@
 {
-  "homepage": "https://AdithyaSakthimani.github.io/PersonalWeb",
-  "name": "my-app",
+  "homepage": "https://AdithyaSakthimani.github.io",
+  "name": "personalweb",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
