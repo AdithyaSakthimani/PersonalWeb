@@ -72,7 +72,7 @@ const Blog = () => {
               onClick = {
                 ()=>{
                   handleLinkClick();
-                  navigate(`/blog/blog${blog.id}`)
+                  navigate(`/blog${blog.id}`)
                 }
               }>Read More</button>
             </div>
